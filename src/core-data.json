@@ -1,0 +1,590 @@
+[
+ {
+   "Name": "Easy",
+   "Action": "Blind birdwatcher"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Curious mortician"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Paranoid scuba diver"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Clumsy chemist"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Hyperactive Drummer"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Foul-mouthed Barista"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Homesick Astronaut"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Timid Talk Show Host"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Stoned chef"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Overbearing waiter"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Flirtatious Mailman/woman/person"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Demanding Soccer Coach"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Angry Farmer"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Cautios bus driver"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Color Blind Painter"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Nervous Electrician"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Aggressive Flight Attendant"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Narcissistic Model"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Rude Receptionist"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Cheerful Executioner"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Caring nurse"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Drunk sailor"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Impolite Restaurant Host/hostess"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Hyper-alert hunter"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Overworked Baker"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Touchy Tailor"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Partial Referee"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Lightning fast bartender"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Rushed Clergy Person (marries a couple)"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Gullible Police officer"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Indecisive Judge"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Pyromaniac Firefighter"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Stubborn Lawyer"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Serious Comedian"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Constipated Clown"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Brave Soldier"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Cowardly Security Guard"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Bold Painter"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Glamorous Actress"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Cheery Cashier"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Hard of Hearing Phone Operator"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Clumsy waiter"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Talkative Uber Driver"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Boring teacher"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Disorganized Receptionist"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Talkative Monk"
+ },
+ {
+   "Name": "Easy",
+   "Action": "Passionate baker"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Judgmental therapist"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Emotional Sports Pundit"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Superstitious Tennis Player"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Confused Lecturer"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Grumpy Kindergarten Teacher"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Indecisive Stock Broker"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Asthmatic librarian"
+ },
+ {
+   "Name": "Medium",
+   "Action": "_______ Shaman"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Impatient dula"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Tone deaf guitarist"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Unoriginal Inventor"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Lonely Monk"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Smelly Masseuse"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Politically liberal cow boy"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Kind IRS agent"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Dishonest Politician"
+ },
+ {
+   "Name": "Medium",
+   "Action": "____________ Priest"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Talkative body guard"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Passionate Plumber"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Disorganized Wedding Planner"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Forgetful historian"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Overwhelmed Babysitter"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Pessimistic preacher"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Illiterate Pharmacist"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Posh Garbage Collector"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Bored Shephard"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Uncensored politician"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Boastful Philanthropist"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Squeamish Surgeon"
+ },
+ {
+   "Name": "Medium",
+   "Action": "______  Dog Walker"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Hungry sous-chef"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Paranoid Zookeeper"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Brutally honest doctor"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Claustrophobic Miner"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Eccentric Taxi Driver"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Nosy Police Officer"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Incoherent Presidential Press Secretary"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Insecure Musician"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Spiritual Scientist"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Clueless Detective"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Violent Dentist"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Minimalist Antique Dealer"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Conflicted Poacher"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Jealous Match-Maker"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Incompetent Midwife"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Obsessive Archaeologist"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Adrenaline-junky Librarian"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Emotional Lawyer"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Sensitive Prison Guard"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Germaphobic Plumber"
+ },
+ {
+   "Name": "Medium",
+   "Action": "Promiscuous Nun"
+ },
+ {
+   "Name": "",
+   "Action": "________ Housekeeper"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Hungry Chinese Zoo Keeper"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Cheerful Jamaican Mortician"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Drunk German Yoga Instrcutor"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Directionally Challenged Trekking Guide In The Himalayas"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Bull-Shitting Tour Guide in Rome"
+ },
+ {
+   "Name": "Hard",
+   "Action": "French Polyamorous marriage counselor"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Practical Italian Philosopher"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Perfectionist Janitor At a Museum"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Obsessive Gorilla Conservationist In Uganda"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Mean Homeless Real Estate Agent"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Snarky Rabbi At A Barmitzvah"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Giggly Stenographer Working On a Murder Case"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Competitive Fisherman From Scandinavia"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Creative Spanish Accountant"
+ },
+ {
+   "Name": "Hard",
+   "Action": "French Vegan Butcher"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Greedy Volunter At A Food Bank"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Soft-Spoken Protester At An Anti-Gun Control Rally"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Sensitive Irish Sumo Wrestler"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Wise Indian Barber"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Unfactual Texan Dietician "
+ },
+ {
+   "Name": "Hard",
+   "Action": "Neurotic English Hairdresser"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Overly-Ambitious Scottish Architect "
+ },
+ {
+   "Name": "Hard",
+   "Action": "Depressed Indian Cheerleader"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Insecure military officer on a first date"
+ },
+ {
+   "Name": "Bronze",
+   "Action": "Unwanted co-star (you can insert yourself into an opponent's performance and create as much disturbance as you like so long as you don't make any physical contact)."
+ },
+ {
+   "Name": "Bronze",
+   "Action": "Skip to the tile of choice (On any given turn, instead of rolling the dice, you can move your pawn to any tile on the board)"
+ },
+ {
+   "Name": "Bronze",
+   "Action": "Targeted customization (you can design a customized card for a specific player and assign it to them the next time they play.)"
+ },
+ {
+   "Name": "Bronze",
+   "Action": "The Heckler (During an opponents turn, you can make as much noise as you'd like without moving.)"
+ },
+ {
+   "Name": "Bronze",
+   "Action": "Hangman (you can demand the performer tell you the number of letters in their character prompt before they being their performance)"
+ },
+ {
+   "Name": "Bronze",
+   "Action": "Assign a prop (pick a portable object of your choice for your opponent to integrate into their performance)"
+ },
+ {
+   "Name": "Bronze",
+   "Action": "Wanted co-star (pick someone to perform with you to enhance your performance, telling them just enough information for them to perform their role, but not enough for them to guess your character)"
+ },
+ {
+   "Name": "Bronze",
+   "Action": "Second guess (after everyone has submitted their guess, the performer must tell you if your guess was correct or not. If not, then you can submit another guess.)"
+ },
+ {
+   "Name": "Silver",
+   "Action": "Encore (after your initial performance and guesses have been read, you the performer can decide to perform again to improve your score)"
+ },
+ {
+   "Name": "Silver",
+   "Action": "Shield (deflect an opponent's offensive special card)"
+ },
+ {
+   "Name": "Silver",
+   "Action": "All play advantage (in the next all play round, take 1 minute to prep your performance for your ally before the round begins)."
+ },
+ {
+   "Name": "Silver",
+   "Action": "Sneak Peak (at the end of your performance and before guesses have been submitted, reveal on character trait)"
+ },
+ {
+   "Name": "Silver",
+   "Action": "Take that! (make an opponent's easy or medium card difficult by adding a situation, nationality or venue)."
+ },
+ {
+   "Name": "Silver",
+   "Action": "Double points (pick any round round, whether as a guesser or performer, and announce you will double your final tally for the round. This must be done after a performance but before guesses are revealed)."
+ },
+ {
+   "Name": "Silver",
+   "Action": "Blind The actor (make the performer wear a blindfold for the duration of their performance)"
+ },
+ {
+   "Name": "Silver",
+   "Action": "Podcast mode (just spoken)"
+ },
+ {
+   "Name": "Silver",
+   "Action": "Make it easier on a hard *before or after"
+ },
+ {
+   "Name": "Gold",
+   "Action": "Blind The Guesser ("
+ },
+ {
+   "Name": "Gold",
+   "Action": "Right Back At Ya (deflect an opponent's offensive special card and make it apply to them instead)"
+ },
+ {
+   "Name": "Gold",
+   "Action": "The great let-down"
+ },
+ {
+   "Name": "Gold",
+   "Action": "Break it up (criteria by criteria)"
+ },
+ {
+   "Name": "Gold",
+   "Action": "Curse of the blind"
+ },
+ {
+   "Name": "Gold",
+   "Action": "Triple points for guesser"
+ },
+ {
+   "Name": "Gold",
+   "Action": "Triple for performer"
+ }
+]

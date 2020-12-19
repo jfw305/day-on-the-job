@@ -3,6 +3,18 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import firebase from "firebase/app";
+
+/* Initialize Firebase */
+const firebaseConfig = {
+  apiKey: "AIzaSyCybNeAk4Gpo0J03hNo0idhwUf1haWjq84",
+  authDomain: "jeremy-game.firebaseapp.com",
+  projectId: "jeremy-game",
+  storageBucket: "jeremy-game.appspot.com",
+  messagingSenderId: "268319403255",
+  appId: "1:268319403255:web:17109d0e68cfdf3bf837f2"
+};
+firebase.initializeApp(firebaseConfig);
 
 ReactDOM.render(
   <React.StrictMode>
