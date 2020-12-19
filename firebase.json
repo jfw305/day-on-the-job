@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "day-on-the-job",
     "public": "build",
     "ignore": [
       "firebase.json",
