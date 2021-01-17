@@ -21,7 +21,7 @@
  },
  {
    "Name": "Easy",
-   "Action": "Foul-mouthed Barista"
+   "Action": "Rude Barista"
  },
  {
    "Name": "Easy",
@@ -41,7 +41,7 @@
  },
  {
    "Name": "Easy",
-   "Action": "Flirtatious Mailman/woman/person"
+   "Action": "Flirtatious Mailman"
  },
  {
    "Name": "Easy",
@@ -69,7 +69,7 @@
  },
  {
    "Name": "Easy",
-   "Action": "Narcissistic Model"
+   "Action": "Humble Model"
  },
  {
    "Name": "Easy",
@@ -113,7 +113,7 @@
  },
  {
    "Name": "Easy",
-   "Action": "Rushed Clergy Person (marries a couple)"
+   "Action": "Rushed Clergy Person"
  },
  {
    "Name": "Easy",
@@ -217,7 +217,7 @@
  },
  {
    "Name": "Medium",
-   "Action": "_______ Shaman"
+   "Action": "Hyper-rational Shaman"
  },
  {
    "Name": "Medium",
@@ -250,10 +250,6 @@
  {
    "Name": "Medium",
    "Action": "Dishonest Politician"
- },
- {
-   "Name": "Medium",
-   "Action": "____________ Priest"
  },
  {
    "Name": "Medium",
@@ -305,7 +301,7 @@
  },
  {
    "Name": "Medium",
-   "Action": "______  Dog Walker"
+   "Action": "Overambitious Dog Walker"
  },
  {
    "Name": "Medium",
@@ -393,19 +389,19 @@
  },
  {
    "Name": "",
-   "Action": "________ Housekeeper"
+   "Action": "Messy Housekeeper"
  },
  {
    "Name": "Hard",
-   "Action": "Hungry Chinese Zoo Keeper"
+   "Action": "Hungry Zoo Keeper Fighting for Bananas With Gorillas"
  },
  {
    "Name": "Hard",
-   "Action": "Cheerful Jamaican Mortician"
+   "Action": "Cheerful Mortician Listening To Reggae"
  },
  {
    "Name": "Hard",
-   "Action": "Drunk German Yoga Instrcutor"
+   "Action": "Drunk Yoga Instrcutor Teaching A Class of 5 Year olds"
  },
  {
    "Name": "Hard",
@@ -417,11 +413,11 @@
  },
  {
    "Name": "Hard",
-   "Action": "French Polyamorous marriage counselor"
+   "Action": "Polyamorous marriage counselor trying convince a couple to enter a love triangle"
  },
  {
    "Name": "Hard",
-   "Action": "Practical Italian Philosopher"
+   "Action": "Practical Philosopher Trying To Fix a Bike"
  },
  {
    "Name": "Hard",
@@ -429,11 +425,11 @@
  },
  {
    "Name": "Hard",
-   "Action": "Obsessive Gorilla Conservationist In Uganda"
+   "Action": "Obsessive Gorilla Conservationist Speaking To a Group of University Students in NYC"
  },
  {
    "Name": "Hard",
-   "Action": "Mean Homeless Real Estate Agent"
+   "Action": "Super Adept Real Estate Agent Trying To Sell A One Room House"
  },
  {
    "Name": "Hard",
@@ -441,19 +437,19 @@
  },
  {
    "Name": "Hard",
-   "Action": "Giggly Stenographer Working On a Murder Case"
+   "Action": "Giggly Stenographer Working On a Murder Case In a Courtroom"
  },
  {
    "Name": "Hard",
-   "Action": "Competitive Fisherman From Scandinavia"
+   "Action": "Competitive Fisherman "
  },
  {
    "Name": "Hard",
-   "Action": "Creative Spanish Accountant"
+   "Action": "Creative Accountant Working For a Wall Street Firm"
  },
  {
    "Name": "Hard",
-   "Action": "French Vegan Butcher"
+   "Action": "Tree-hugging Butcher Trying To Sell Fake Meat Products"
  },
  {
    "Name": "Hard",
@@ -465,31 +461,35 @@
  },
  {
    "Name": "Hard",
-   "Action": "Sensitive Irish Sumo Wrestler"
+   "Action": "Sensitive Sumo Wrestler Competing At The Irish National Championship For Sumo Fighter"
  },
  {
    "Name": "Hard",
-   "Action": "Wise Indian Barber"
+   "Action": "Wise Barber On The Streets of India "
  },
  {
    "Name": "Hard",
-   "Action": "Unfactual Texan Dietician "
+   "Action": "Unfactual Dietician Promoting The Food At a McDonald's Restaurant"
  },
  {
    "Name": "Hard",
-   "Action": "Neurotic English Hairdresser"
+   "Action": "Perfectionist Hairdresser With 5 People Waiting In Line "
  },
  {
    "Name": "Hard",
-   "Action": "Overly-Ambitious Scottish Architect "
+   "Action": "Overly-Ambitious Architect Presenting Their Proposal For Redesigning The Twin Towers after 911  "
  },
  {
    "Name": "Hard",
-   "Action": "Depressed Indian Cheerleader"
+   "Action": "Sad Cheerleader At A College Football Game "
  },
  {
    "Name": "Hard",
    "Action": "Insecure military officer on a first date"
+ },
+ {
+   "Name": "Hard",
+   "Action": "Hippy Math Teacher Teaching A Group of 3rd Graders"
  },
  {
    "Name": "Bronze",
