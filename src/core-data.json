@@ -21,7 +21,7 @@
  },
  {
    "Name": "Easy",
-   "Action": "Foul-mouthed Barista"
+   "Action": "Rude Barista"
  },
  {
    "Name": "Easy",
@@ -41,7 +41,7 @@
  },
  {
    "Name": "Easy",
-   "Action": "Flirtatious Mailman/woman/person"
+   "Action": "Flirtatious Mailman"
  },
  {
    "Name": "Easy",
@@ -53,7 +53,7 @@
  },
  {
    "Name": "Easy",
-   "Action": "Cautios bus driver"
+   "Action": "Cautious bus driver"
  },
  {
    "Name": "Easy",
@@ -217,7 +217,7 @@
  },
  {
    "Name": "Medium",
-   "Action": "_______ Shaman"
+   "Action": "Bored Shaman"
  },
  {
    "Name": "Medium",
@@ -253,7 +253,7 @@
  },
  {
    "Name": "Medium",
-   "Action": "____________ Priest"
+   "Action": "Hungry Priest"
  },
  {
    "Name": "Medium",
@@ -305,7 +305,7 @@
  },
  {
    "Name": "Medium",
-   "Action": "______  Dog Walker"
+   "Action": "Conceited Dog Walker"
  },
  {
    "Name": "Medium",
@@ -392,20 +392,20 @@
    "Action": "Promiscuous Nun"
  },
  {
-   "Name": "",
-   "Action": "________ Housekeeper"
+   "Name": "Medium",
+   "Action": "Messy Housekeeper"
  },
  {
    "Name": "Hard",
-   "Action": "Hungry Chinese Zoo Keeper"
+   "Action": "Hungry Zoo Keeper Competing For Bananas With The Gorillas"
  },
  {
    "Name": "Hard",
-   "Action": "Cheerful Jamaican Mortician"
+   "Action": "Cheerful Mortician Listening To Reggae Music"
  },
  {
    "Name": "Hard",
-   "Action": "Drunk German Yoga Instrcutor"
+   "Action": "Drunk Yoga Instrcutor Teaching A Group Of 5 year olds"
  },
  {
    "Name": "Hard",
@@ -417,11 +417,11 @@
  },
  {
    "Name": "Hard",
-   "Action": "French Polyamorous marriage counselor"
+   "Action": "Polyamorous marriage counselor trying to convince a couple to start a love triangle"
  },
  {
    "Name": "Hard",
-   "Action": "Practical Italian Philosopher"
+   "Action": "A an overly-philosophizing bike mechanic trying to a client why their bike is not working"
  },
  {
    "Name": "Hard",
@@ -429,11 +429,11 @@
  },
  {
    "Name": "Hard",
-   "Action": "Obsessive Gorilla Conservationist In Uganda"
+   "Action": "Obsessive Gorilla Conservationist At A Party"
  },
  {
    "Name": "Hard",
-   "Action": "Mean Homeless Real Estate Agent"
+   "Action": "Persuasive Real Estate Agent Trying To Sell A Teepee"
  },
  {
    "Name": "Hard",
@@ -441,19 +441,19 @@
  },
  {
    "Name": "Hard",
-   "Action": "Giggly Stenographer Working On a Murder Case"
+   "Action": "Giggly Stenographer Working On a Murder Case In Courst"
  },
  {
    "Name": "Hard",
-   "Action": "Competitive Fisherman From Scandinavia"
+   "Action": "A Remorseful Fisherman Trying "
  },
  {
    "Name": "Hard",
-   "Action": "Creative Spanish Accountant"
+   "Action": "A Flamboyant Accountant Giving A Financial Update To a Wall Street CEO"
  },
  {
    "Name": "Hard",
-   "Action": "French Vegan Butcher"
+   "Action": "A Vegan Butcher Trying to Sell Their Alternative Meats"
  },
  {
    "Name": "Hard",
@@ -465,31 +465,55 @@
  },
  {
    "Name": "Hard",
-   "Action": "Sensitive Irish Sumo Wrestler"
+   "Action": "Sensitive Sumo Wrestler Competing In The World Championship Match"
  },
  {
    "Name": "Hard",
-   "Action": "Wise Indian Barber"
+   "Action": "A Wise Barber Working On The Streets Of India"
  },
  {
    "Name": "Hard",
-   "Action": "Unfactual Texan Dietician "
+   "Action": "A deceitful dietician trying to persuade people at a farmers markets of the health benefits of McDonalds "
  },
  {
    "Name": "Hard",
-   "Action": "Neurotic English Hairdresser"
+   "Action": "A perfectionist hairdesser with five people waiting in line"
  },
  {
    "Name": "Hard",
-   "Action": "Overly-Ambitious Scottish Architect "
+   "Action": "Overly-Ambitious Architect Presenting Their Proposal For Replacing The Twin Towers After 9/11"
  },
  {
    "Name": "Hard",
-   "Action": "Depressed Indian Cheerleader"
+   "Action": "An Angry Cheerleader At Her Ex-Boyfriend's College Football Game"
  },
  {
    "Name": "Hard",
    "Action": "Insecure military officer on a first date"
+ },
+ {
+  "Name": "Hard",
+   "Action": "A Confused Youtuber Trying To Teach Viewers How To Cook"
+ },
+ {
+  "Name": "Hard",
+   "Action": "A Timid Rockstar Performing For Their Family Before a Big Show"
+ },
+ {
+  "Name": "Hard",
+   "Action": "A Passionate DJ Playing Classical Music At A Night Club"
+ },
+ {
+  "Name": "Hard",
+   "Action": "Stoned Pirate Eating Cotton Candy"
+ },
+ {
+  "Name": "Hard",
+   "Action": "Germophobe gardner at the botanical garden"
+ },
+ {
+  "Name": "Hard",
+   "Action": "A stressed out Buddhist monk on morning alms rounds"
  },
  {
    "Name": "Bronze",
@@ -501,7 +525,7 @@
  },
  {
    "Name": "Bronze",
-   "Action": "Targeted customization (you can design a customized card for a specific player and assign it to them the next time they play.)"
+   "Action": "Targeted customization (you can design a customized card for a specific player and assign it to them the next time they perform.)"
  },
  {
    "Name": "Bronze",
@@ -509,15 +533,7 @@
  },
  {
    "Name": "Bronze",
-   "Action": "Hangman (you can demand the performer tell you the number of letters in their character prompt before they being their performance)"
- },
- {
-   "Name": "Bronze",
-   "Action": "Assign a prop (pick a portable object of your choice for your opponent to integrate into their performance)"
- },
- {
-   "Name": "Bronze",
-   "Action": "Wanted co-star (pick someone to perform with you to enhance your performance, telling them just enough information for them to perform their role, but not enough for them to guess your character)"
+   "Action": "Assign a prop (pick a portable object of your choice that your opponent HAS TO integrate into their performance)"
  },
  {
    "Name": "Bronze",
@@ -525,23 +541,23 @@
  },
  {
    "Name": "Silver",
-   "Action": "Encore (after your initial performance and guesses have been read, you the performer can decide to perform again to improve your score)"
+   "Action": "Encore (if you are not satisfied with the other players' guesses at the end of your performance, you can repeat your performance to help them improve their guesses)."
  },
  {
    "Name": "Silver",
-   "Action": "Shield (deflect an opponent's offensive special card)"
+   "Action": "Shield (render an opponent bonus card obsolete if they try to apply it to you.)"
  },
  {
    "Name": "Silver",
-   "Action": "All play advantage (in the next all play round, take 1 minute to prep your performance for your ally before the round begins)."
+   "Action": "All play advantage (in the next all play round, take 1 minute to prep your performance before the other team gets to see the prompt)."
  },
  {
    "Name": "Silver",
-   "Action": "Sneak Peak (at the end of your performance and before guesses have been submitted, reveal on character trait)"
+   "Action": "Sneak Peak (at the end of your performance and before guesses have been submitted, reveal a character trait)"
  },
  {
    "Name": "Silver",
-   "Action": "Take that! (make an opponent's easy or medium card difficult by adding a situation, nationality or venue)."
+   "Action": "Take that! (make an opponent who landed on a easy or medium tile do a difficult character prompt)."
  },
  {
    "Name": "Silver",
@@ -553,19 +569,19 @@
  },
  {
    "Name": "Silver",
-   "Action": "Podcast mode (just spoken)"
+   "Action": "Podcast mode (Limit the performance to an oral performance only.)"
  },
  {
    "Name": "Silver",
-   "Action": "Make it easier on a hard *before or after"
+   "Action": "Remove The Situation On Difficult Card"
  },
  {
    "Name": "Gold",
-   "Action": "Blind The Guesser ("
+   "Action": "Blind The Guesser (pick another guesser and blindfold them so that they can't see the performance) 
  },
  {
    "Name": "Gold",
-   "Action": "Right Back At Ya (deflect an opponent's offensive special card and make it apply to them instead)"
+   "Action": "Right Back At Ya (deflect an opponent's offensive bonus card and make it apply to them instead)"
  },
  {
    "Name": "Gold",
@@ -573,11 +589,11 @@
  },
  {
    "Name": "Gold",
-   "Action": "Break it up (criteria by criteria)"
+   "Action": "Break it up (Perform your prompt trait by trait)"
  },
  {
    "Name": "Gold",
-   "Action": "Curse of the blind"
+   "Action": "Curse of the blind (Make all the other guessers close their eyes during a performance to make it harder for them to guess"
  },
  {
    "Name": "Gold",
